@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce4f0626-40b2-4f53-9038-29cad47f7343" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/ParticleEffects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TetrisFields/PlayerField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UnitStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TetrisFields/TetrisField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/FieldedObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TetrisFieldBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TetrisFields/EnemyField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TetrisFields/InventoryField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1245D947-A91B-4A14-B7C7-E2C7335512B2/e2/45c34f1e/Resources.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DmgText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/KeyBinds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShapeShadowBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShapeTemplates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1245D947-A91B-4A14-B7C7-E2C7335512B2/77/f2fb12ae/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Unit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1245D947-A91B-4A14-B7C7-E2C7335512B2/a3/b5123fe2/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1245D947-A91B-4A14-B7C7-E2C7335512B2/6e/170d49db/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1245D947-A91B-4A14-B7C7-E2C7335512B2/13/30a3d7bd/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShapeConstructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShapeBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/FlyingPixel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TetrisField.cs" />
+        <option value="$PROJECT_DIR$/Assets/TetrisFieldBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PrefabsFielded.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FieldedObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyBinds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisFieldBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisFields/FieldsImpl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShapeShadowBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShapeBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/HpText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DmgText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisFields/PlayerField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/ParticleEffects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisFields/EnemyField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/FlyingPixel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShapeConstructor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisFields/InventoryField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UnitStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShapeTemplates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/FieldedObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Unit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TetrisFields/TetrisField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/KeyBinds.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aiMsQO445ncDSrKZRLvqwT7U5K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderUnityLiveTemplatesSettings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="18364">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="18364" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="414" height="466" key="DebuggerActiveHint" timestamp="1587298085257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="414" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587298085257" />
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.0.center" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.0.left" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.0.right" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.1.bottom" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.1.center" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.1.left" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.1.right" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.2.bottom" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.2.center" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.2.left" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.2.right" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.3.bottom" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.3.center" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.3.left" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state width="1877" height="290" key="GridCell.Tab.3.right" timestamp="1587311539257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587311539257" />
+    <state x="238" y="133" width="1456" height="716" key="SettingsEditor" timestamp="1587292991477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="238" y="133" width="1456" height="716" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587292991477" />
+    <state x="607" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587250064216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587250064216" />
+    <state x="638" y="257" width="737" height="596" key="find.popup" timestamp="1587333305158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="257" width="737" height="596" key="find.popup/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587333305158" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1587289132010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587289132010" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587329282652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1587329282652" />
+  </component>
+</project>

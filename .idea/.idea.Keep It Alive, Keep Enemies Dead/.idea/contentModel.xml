@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mach\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mach\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Keep It Alive, Keep Enemies Dead.1711813513.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mach\Documents\gamedev\Keep It Alive, Keep Enemies Dead" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Effects" t="Include">
+            <e p="FlyingPixel.cs" t="Include" />
+            <e p="ParticleEffects.cs" t="Include" />
+          </e>
+          <e p="Enemy.cs" t="Include" />
+          <e p="MouseEventHandler.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Shape.cs" t="Include" />
+          <e p="ShapeBlock.cs" t="Include" />
+          <e p="ShapeConstructor.cs" t="Include" />
+          <e p="ShapeShadowBlock.cs" t="Include" />
+          <e p="ShapeTemplates.cs" t="Include" />
+          <e p="TetrisFieldBlock.cs" t="Include" />
+          <e p="TetrisFields" t="Include">
+            <e p="EnemyField.cs" t="Include" />
+            <e p="InventoryField.cs" t="Include" />
+            <e p="PlayerField.cs" t="Include" />
+            <e p="TetrisField.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="DmgText.cs" t="Include" />
+            <e p="UnitStats.cs" t="Include" />
+          </e>
+          <e p="Unit.cs" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="FieldedObjects.cs" t="Include" />
+            <e p="KeyBinds.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Keep It Alive, Keep Enemies Dead.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
