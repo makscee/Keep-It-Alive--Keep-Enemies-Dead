@@ -17,6 +17,10 @@ public class KeyBinds : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.R))
         {
+            Enemy.addDmg = 0;
+            Enemy.addHp = 0;
+            Enemy.Kills = 0;
+            TetrisField.LinesCleared = 0;
             SceneManager.LoadScene("Game");
         }
 

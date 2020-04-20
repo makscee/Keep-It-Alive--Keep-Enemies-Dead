@@ -45,7 +45,7 @@ public class Enemy : Unit
         }
     }
 
-    static int addHp, addDmg;
+    public static int addHp, addDmg;
     public static void Spawn()
     {
         var r = Random.Range(0f, 1f);
